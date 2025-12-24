@@ -1,0 +1,14 @@
+.tile:hover {
+transform: scale(1.05);
+}
+.empty {
+background: transparent;
+cursor: default;
+}
+button {
+padding: 10px 20px;
+font-size: 16px;
+border: none;
+border-radius: 8px;
+cursor: pointer;
+}
